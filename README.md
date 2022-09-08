@@ -43,6 +43,36 @@ recommendation to someone visit.
 > Flatter yourself critically -- *Willis Goth Regier*
 
 ***
+# CODE FENCING
+
+How to write code get Latest Twitter Status?
+
+[Question](https://stackoverflow.com/questions/19653695/java-how-do-i-get-the-latest-tweet-for-a-particular-user)
+
+```
+<?php
+
+function getTwitterStatus($userid){
+$url = "https://api.twitter.com/1/statuses/user_timeline/$userid.xml?count=1&include_rts=1callback=?";
+
+$xml = simplexml_load_file($url) or die("could not connect");
+
+       foreach($xml->status as $status){
+       $text = $status->text;
+       }
+       echo $text;
+ }
+
+// USAGE
+getTwitterStatus("chriscoyier");
+
+?>
+
+```
+
+[code snippet](https://css-tricks.com/snippets/php/get-latest-twitter-status/)
+
+***
 
 
 
