@@ -22,7 +22,7 @@
 
 [AbutMefile](AbutMe.md)
 - - - 
-# city to visit
+# City to visit
 Intro:-In This Table we are going to create a table with cities and 
 recommendation to someone visit.
 
@@ -33,6 +33,21 @@ recommendation to someone visit.
 | MUMBAI    | TAJ HOTEL         |   2H          |
 | DELHI     | TAJMAHAL          |   4H          |  
 | CHENNAI    | TEMPLE    | 2h|
+
+***
+
+# PITHY QUOTES
+
+> Imitation is suicide  -- *Ralph Waldo Emerson*
+
+> Flatter yourself critically -- *Willis Goth Regier*
+
+***
+
+
+
+
+
 
 
 
