@@ -21,5 +21,19 @@
 - Fort
 
 [AbutMefile](AbutMe.md)
+- - - 
+# city to visit
+Intro:-In This Table we are going to create a table with cities and 
+recommendation to someone visit.
+
+
+| CITY      | LOCATION TO VISIT | TIME TO SPEND |        
+| ---       | ---               |  ---          |
+| HYDERABAD | CHARMINAR         |   3H          |
+| MUMBAI    | TAJ HOTEL         |   2H          |
+| DELHI     | TAJMAHAL          |   4H          |  
+| CHENNAI    | TEMPLE    | 2h|
+
+
 
 
