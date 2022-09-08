@@ -13,4 +13,10 @@
 5. At Gandhi Cir, take the 3rd exit and stay on Jawahar Lal Nehru Marg
 6. Use any lane to turn left after the park 
 
+# places nearby
+1. peacock garden
+2. gems paradise
+3. bapu bazar
+4. ellora arts
+
 
