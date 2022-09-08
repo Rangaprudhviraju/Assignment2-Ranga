@@ -14,10 +14,10 @@
 6. Use any lane to turn left after the park 
 
 # places nearby
-1. peacock garden
-2. gems paradise
-3. bapu bazar
-4. ellora arts
+- Peacock garden
+- gems paradise
+- bapu bazar
+- ellora arts
 
 [AbutMefile](AbutMe.md)
 
